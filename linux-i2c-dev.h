@@ -23,6 +23,7 @@
 #ifndef LIB_I2CDEV_H
 #define LIB_I2CDEV_H
 
+#include <stddef.h>
 #include <linux/types.h>
 #include <sys/ioctl.h>
 
